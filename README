@@ -1,3 +1,28 @@
 Hi
 This project is about a useless box which is birthday editioned.
 will update this later accordingly
+
+Items required:
+
+Components:
+2 x Arduino Nano
+1 x microSD Card module
+1 x MG995 Servo
+1 x SG90 Servo
+1 x Speaker
+1 x PAM8403 Amplifier
+1 x micro USB Socket
+1 X 9v Battery & connector
+1 x 7805 Voltage Regulator
+1 x SPDT toggle Switch
+1 x DPST or DPDT switch
+1 x 1k Ohm resistor
+1 x Veroboard or Zero PCB
+Some Female Header
+Some Male Header
+
+
+Hardware:
+5mm wood [ i used ply wood ]
+pins
+wood glue [ i used wood fevicol ]
